@@ -1,1 +1,1 @@
-# Readme do TYreinamento da UnB com Speedgoat
+# Readme do Treinamento da UnB com Speedgoat
